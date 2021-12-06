@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/SensorApp/app/src/main/res/drawable/sensor_icon.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SensorApp/app/src/main/res/layout/list_item_sensor.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SensorApp/app/src/main/res/layout/sensor_activity.xml" value="0.15670289855072464" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SensorApp/app/src/main/res/layout/sensor_details_activity.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SensorApp/app/src/main/res/layout/sensor_list_item.xml" value="0.12537993920972645" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SensorApp/app/src/main/res/layout/sensor_menu.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SensorApp/app/src/main/res/menu/sensor_menu.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
